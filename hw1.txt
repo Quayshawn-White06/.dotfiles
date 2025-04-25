@@ -1,0 +1,13 @@
+https://github.com/Quayshawn-White06/.dotfiles
+
+I think this lab was not to hard. Due to a previous class I already had a git account and some directories made. This made this lab not to hard since I was already familiar with git bash. I also noticed that git commands are basically the same as the commands in putty so I didn't need any external sources to figure it out.
+
+If I had to give the most challenging part it would definitely be keeping up with which directory I was in. Putty does a good job of letting you know what directory your in because you have the tree command. This command also helps keep track of everything you have created and where it is all located at.
+
+Overall this was honestly easier than some labs we have done. The instructions provided were enough for me to get this assignment done. Bash is easy to use because it is almost the same as putty.
+
+Sources
+
+https://education.github.com/git-cheat-sheet-education.pdf
+
+https://github.com/s7117/.dotfiles
