@@ -1,0 +1,86 @@
+git config -- global user.name Quayshawn-White06.github.io
+git config --global user.name Quayshawn-White06.github.io
+git config --global user.email QMWHITE@email.sc.edu
+
+git config --global user.name "Quayshawn White"
+git config --global user.email "quayshawnwhite196@gmail.com"
+~
+d
+cd d
+cd .ssh
+tree
+vim config
+config
+vim config
+mkdir github
+cd github
+ssh-keygen -t ed25519 -a 203 -f ./id_ed25519
+ls
+cat ~/.ssh/github/id_ed25519.pub
+cd ~
+ls
+pwd
+mkdir .dotfiles
+ls
+cd .dotfiles
+ls
+vim README.md
+cat README.md
+nano .nanorc
+cp .nanorc ~
+git init
+git add --all
+git commit -m "INIT commit"
+git branch -M main
+git remote add origin git@github.com:<
+git remote add origin git@github.com<Quayshawn-White06>/.dotfiles
+git push -u origin main
+git init
+git add --all
+git commit -m "INIT commit"
+git branch -M main
+git remote add origin git@github.com:<your_git_username>/.dotfiles
+$ git init
+git add --all
+git commit -m "INIT commit"
+git branch -M main
+git remote add origin git@github.com:<your_git_username>/.dotfiles
+git push -u origin main
+Reinitialized existing Git repository in C:/Users/Quays/.dotfiles/.git/
+On branch main
+nothing to commit, working tree clean
+bash: your_git_username: No such file or directory
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+git init
+git add --all
+git commit -m "INIT commit"
+git branch -M main
+git remote add origin git@github.com:Quayshawn-White06/.dotfiles
+git push -u origin main
+nano ~/.ssh/config
+git push -u origin main
+git push -u origin main
+vim hw1.txt
+cd ~
+vim .bash_history
+vim .bash_history
+$ cat README.md
+git init
+vim .bash_history
+cat ~/.bash_history
+tail -n 3 ~/.bash_hitory > commands.txt
+tail -n 3 ~/.bash_history > commands.txt
+vim commands.txt
+vim hw1.txt
+ls
+vim hw1.txt
+cd dotfiles
+cd ~/.dotfiles
+ls
+vim hw1.txt
+
